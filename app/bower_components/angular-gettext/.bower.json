@@ -1,0 +1,30 @@
+{
+  "name": "angular-gettext",
+  "main": "dist/angular-gettext.js",
+  "ignore": [
+    "**/.*",
+    "src",
+    "node_modules",
+    "bower_components",
+    "test",
+    "genplurals.py",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "devDependencies": {
+    "jquery": ">=1.8.0",
+    "angular-mocks": ">=1.2.0"
+  },
+  "homepage": "https://github.com/Jesus89/angular-gettext",
+  "_release": "5727a2598e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5727a2598eaa812027da016a008ff34489c2f413"
+  },
+  "_source": "https://github.com/Jesus89/angular-gettext.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/Jesus89/angular-gettext.git"
+}

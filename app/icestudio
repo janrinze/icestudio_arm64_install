@@ -1,0 +1,6 @@
+#!/usr/bin/env /bin/bash
+
+export LP_NUM_THREADS=2
+#rm -Rf ~/.config/icestudio
+~/bin/nwjs-v0.12.2-linux-arm/nw ./
+
